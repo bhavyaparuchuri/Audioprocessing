@@ -1,0 +1,3 @@
+./aachand.so
+./aahand.so
+./aaxhand.so
